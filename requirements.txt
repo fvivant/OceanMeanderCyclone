@@ -1,0 +1,6 @@
+python==3.8.8
+matplotlib==3.7.3
+numpy==1.22.0
+xarray==0.18.2
+cmocean==3.0.3
+
