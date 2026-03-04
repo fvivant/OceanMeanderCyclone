@@ -1,5 +1,9 @@
 #my config file (not to be shared)
 config_mine.py
+#info about the procedure git
+GITHUB_PUBLICATION.txt
+#data structure info available on zenodo
+README_data.md
 
 # Data (large files - use Zenodo instead)
 *.nc

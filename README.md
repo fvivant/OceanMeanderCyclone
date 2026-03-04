@@ -1,20 +1,21 @@
 # Ocean meanders modulate extratropical cyclone energetics
-Félix Vivant - LMD-IPSL, CNRS, ENS Paris
-Guillaume Lapeyre - LMD-IPSL, CNRS, ENS Paris
+Félix Vivant & Guillaume Lapeyre - LMD-IPSL, CNRS, ENS Paris
 
 Contains the code used to plot the figures in "Ocean meanders modulate extratropical cyclone energetics"
 
 ## Setup
 
 ```bash
-git clone https://github.com/USERNAME/OceanMeanderCyclone.git
+git clone https://github.com/fvivant/OceanMeanderCyclone.git
 cd OceanMeanderCyclone
 pip install -r requirements.txt
 ```
 
 ## Data
 
-Download data from Zenodo: [doi:10.xxxx/zenodo.XXXXXX](https://zenodo.org/record/XXXXXX)
+Download data from Zenodo: 
+
+Vivant, F., & Lapeyre, G. (2026). Ocean meanders modulate extratropical cyclone energetics - data [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18846024
 
 Update `DATA_BASE_DIR` in `config.py` with your data path.
 
