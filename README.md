@@ -38,9 +38,7 @@ Output figures saved to `PLOT_OUTPUT_DIR`, see in `config.py`
 
 ## Citation
 
-```
-Vivant, F., et al. (2026). Ocean Meander Cyclone. doi:10.xxxx/zenodo.XXXXXX
-```
+Please cite this code using the metadata in [CITATION.cff](CITATION.cff)
 
 ## Author
 
