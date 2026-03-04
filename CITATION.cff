@@ -1,0 +1,16 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Vivant
+  given-names: Félix
+  orcid: "https://orcid.org/0009-0002-0746-9138"
+  affiliation: "LMD-IPSL, CNRS, ENS Paris"
+- family-names: Lapeyre
+  given-names: Guillaume
+  orcid: "https://orcid.org/0000-0001-8187-8971"
+  affiliation: "LMD-IPSL, CNRS, ENS Paris"
+title: Ocean meanders modulate extratropical cyclone energetics [code]
+version: 1.0.0
+doi: 10.5281/zenodo.18860750
+url: "https://github.com/fvivant/OceanMeanderCyclone"
+date-released: 2026-03-04
